@@ -8,6 +8,9 @@ Forecasting Time Series dengan mempergunakan metode Moving Average dan Exponenti
 - 2 metode yaitu metode Moving Average dan Exponential Smoothing
 - 21 adaptive theme based Bootswatch Bootstrap v4
 
+Preview : 
+https://www.youtube.com/watch?v=gEr-mTOFouo
+
 Feel free to reach me on :
 - https://www.firstplato.com
 - https://www.facebook.com/firstplato
